@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\bin\Debug\AlcolizerFileBasedUnitConverter.exe.config
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\bin\Debug\AlcolizerFileBasedUnitConverter.exe
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\bin\Debug\AlcolizerFileBasedUnitConverter.pdb
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\obj\Debug\AlcolizerFileBasedUnitConverter.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\obj\Debug\AlcolizerFileBasedUnitConverter.Form1.resources
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\obj\Debug\AlcolizerFileBasedUnitConverter.Properties.Resources.resources
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\obj\Debug\AlcolizerFileBasedUnitConverter.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\obj\Debug\AlcolizerFileBasedUnitConverter.exe
+C:\Users\Daniel\Desktop\AlcolizerFileBasedUnitConverter\obj\Debug\AlcolizerFileBasedUnitConverter.pdb
